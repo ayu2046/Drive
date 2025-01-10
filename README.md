@@ -5,21 +5,22 @@ A robust backend system for a drive management website, enabling secure file upl
 
 # SignUp Page
 
-![image](https://github.com/user-attachments/assets/093fc607-d4e2-414f-aa1b-2e8c3ca8c1c0)
+![Screenshot 2025-01-10 214544](https://github.com/user-attachments/assets/43641e54-263a-4ad9-a07d-3def95085c72)
 
 # LogIn Page
 
-![image](https://github.com/user-attachments/assets/ab3bea0e-d3fc-4f47-84e3-fec7e44e9bcd)
+![Screenshot 2025-01-10 214621](https://github.com/user-attachments/assets/8afc4d8d-c9bb-4d96-bb68-bd0871aa3232)
 
 # Home Page
 
-![image](https://github.com/user-attachments/assets/d6d14bbe-4ff3-4895-8fc3-0865f1729f5e)
-![image](https://github.com/user-attachments/assets/3694a347-c003-4cf9-8397-3857dbe3bbbd)
+![Screenshot 2025-01-10 214708](https://github.com/user-attachments/assets/28f04b7e-2e56-401e-a4c3-b201b789f9d1)
+![Screenshot 2025-01-10 214652](https://github.com/user-attachments/assets/31c467c0-e795-40e8-8b39-aa957ff6fb11)
+
 
 # DataBase
 
-![image](https://github.com/user-attachments/assets/6020cccc-0eb7-4e7e-a46a-5d8c2aaf0784)
-![image](https://github.com/user-attachments/assets/96dc6598-2307-4770-8145-cbe3fed897d0)
+![Screenshot 2025-01-10 215108](https://github.com/user-attachments/assets/678ff26d-148f-41b2-8ac8-fb0d47296621)
+![Screenshot 2025-01-10 214830](https://github.com/user-attachments/assets/82d15406-72c5-4162-8cb1-cfef23f924c1)
 
 
 # Features:
